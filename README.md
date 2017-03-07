@@ -4,7 +4,7 @@ This website is about recruiting people easily.
 
 ## Getting Started
 
-To begin using our website you just need to sign up there: [Download the latest release on Start Bootstrap](https://github.com/BenjaminCabassot/AdoptUrFreelancer)
+To begin using our website you just need to sign up there: [Sign up](https://github.com/BenjaminCabassot/AdoptUrFreelancer)
 
 ## Collaborate
 

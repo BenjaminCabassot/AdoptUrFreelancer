@@ -46,7 +46,7 @@
                     <span class="[ icon-bar ]"></span>
                 </button>
                 <div class="[ animbrand ]">
-                    <a class="[ navbar-brand ][ animate ]" href="#">AdopteUrFreelancer</a>
+                    <a class="[ navbar-brand ][ animate ]" href="C:/Users/Benji/Projets/AdoptUrFreelancer/index.html">AdopteUrFreelancer</a>
                 </div>
             </div>
 
@@ -66,7 +66,7 @@
                     </li>
                     <li><a href="#" class="[ animate ]">About</a></li>
                     <li>
-                        <a href="C:/Users/Benji/Projets/AdoptUrFreelancer/freelancer.php" class="[ animate ]">Freelancer?</span></a>
+                        <a href="C:/Users/Benji/Projets/AdoptUrFreelancer/freelancer.php" class="[ animate ]">Freelancer</span></a>
                           <!--<ul class="[ dropdown-menu ]" role="menu">
                             <li><a href="#" class="[ animate ]">Blog <span class="[ pull-right glyphicon glyphicon-pencil ]"></span></a></li>
                             <li><a href="#" class="[ animate ]">List of resources <span class="[ pull-right glyphicon glyphicon-align-justify ]"></span></a></li>
@@ -79,7 +79,7 @@
                         </ul>-->
                     </li>
                     
-                    <li><a class="animate" href="#Freelancer?">Client?</a></li>
+                    <li><a class="animate" href="#Freelancer?">Client</a></li>
                     <li><a class="animate" href="#login">Login</a></li>
                     <li class="[ hidden-xs ]"><a href="#toggle-search" class="[ animate ]"><span class="[ glyphicon glyphicon-search ]"></span></a></li>
                 </ul>
@@ -98,6 +98,80 @@
             </div>
         </div>
     </nav>
+<br><br><br><br><br><br>
+
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend style="text-align:center;border-top: 1px solid rgb(95, 176, 228);border-bottom: 1px solid rgb(95, 176, 228);" class="legendform">Inscription freelancer</legend>
+
+<!-- Text input--><br><br><br>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">* Nom et prénom :</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="ex: Cabassot Benjamin" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Password input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="passwordinput">* Mot de passe :</label>
+  <div class="col-md-4">
+    <input id="passwordinput" name="passwordinput" type="password" placeholder="********" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="mail">* Adresse mail :</label>  
+  <div class="col-md-4">
+  <input id="mail" name="mail" type="text" placeholder="ex: benjamin.cabassot@edu.esiee.fr" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="tel">* Téléphone :</label>  
+  <div class="col-md-4">
+  <input id="tel" name="tel" type="text" placeholder="0679757579" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Select Multiple -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="selectmultiple">* Compétence :</label>
+  <div class="col-md-4">
+    <select id="selectmultiple" name="selectmultiple" class="form-control" multiple="multiple">
+      <option value="1">Web Developper</option>
+      <option value="2">Data scientist</option>
+      <option value="3">Web design</option>
+      <option value="4">Community manager</option>
+      <option value="5">Web marcketing</option>
+    </select>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="description">Description :</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="description" name="description">Décrivez vous et vos projets succinctement.</textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="bt1"></label>
+  <div class="col-md-4">
+    <button id="bt1" name="bt1" class="btn btn-primary" style="display: block;
+   margin : auto;">Valider</button>
+  </div>
+</div>
 
 
 
@@ -106,11 +180,7 @@
 
 
 
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br>
 
 
 

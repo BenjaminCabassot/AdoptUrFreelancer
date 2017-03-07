@@ -66,7 +66,7 @@
                     </li>
                     <li><a href="#" class="[ animate ]">About</a></li>
                     <li>
-                        <a href="C:/Users/Benji/Projets/AdoptUrFreelancer/freelancer.php" class="[ animate ]">Freelancer</span></a>
+                        <a href="C:/Users/Benji/Projets/AdoptUrFreelancer/freelancer.php" class="[ animate ]">Freelancer?</span></a>
                           <!--<ul class="[ dropdown-menu ]" role="menu">
                             <li><a href="#" class="[ animate ]">Blog <span class="[ pull-right glyphicon glyphicon-pencil ]"></span></a></li>
                             <li><a href="#" class="[ animate ]">List of resources <span class="[ pull-right glyphicon glyphicon-align-justify ]"></span></a></li>
@@ -79,7 +79,7 @@
                         </ul>-->
                     </li>
                     
-                    <li><a class="animate" href="#Freelancer?">Client</a></li>
+                    <li><a class="animate" href="#Freelancer?">Client?</a></li>
                     <li><a class="animate" href="#login">Login</a></li>
                     <li class="[ hidden-xs ]"><a href="#toggle-search" class="[ animate ]"><span class="[ glyphicon glyphicon-search ]"></span></a></li>
                 </ul>
@@ -100,136 +100,20 @@
     </nav>
 
 
-    <!-- Header -->
-    <a name="about"></a>
-    <div class="intro-header">
-        <div class="container">
 
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="intro-message">
-                        <h1>AdoptUrFreelancer</h1>
-                        <h3>Une plateforme intéractive pour le développement web</h3>
-                        <hr class="intro-divider">
-                        <ul class="list-inline intro-social-buttons">
-                            <li>
-                                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"> <span class="network-name">Recruteur?</span></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"> <span class="network-name">Freelancer?</span></a>
-                            </li>
-                           
-                        </ul>
-                    </div>
-                </div>
-            </div>
 
-        </div>
-        <!-- /.container -->
 
-    </div>
-    <!-- /.intro-header -->
 
-    <!-- Page Content -->
 
-	<a  name="services"></a>
-    <div class="content-section-a">
 
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Vous cherchez quelqu'un pour mener a bien votre projet web?<br></h2>
-                    <p class="lead">Vous êtes au bon endroit !<br> En effet tous les profils de freelancer sont à votre disposition pour développer votre projet.</p>
-                    <a href="" class="btn btn-default btn-lg"> <span class="network-name">Proposer un projet</span></a>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
-                </div>
-            </div>
 
-        </div>
-        <!-- /.container -->
 
-    </div>
-    <!-- /.content-section-a -->
 
-    <div class="content-section-b">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-        <div class="container">
 
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Vous cherchez un projet rémunérer où vous pourrez utiliser vos compétence?<br></h2>
-                    <p class="lead">Vous êtes au bon endroit !<br> En effet un bon nombre de projet web divers et variés vous attendent sur notre plateforme</p>
-                    <a href="" class="btn btn-default btn-lg"> <span class="network-name">Rejoignez la communauté</span></a>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/freelancer.png" alt="">
-                </div>
-            </div>
 
-        </div>
-        <!-- /.container -->
 
-    </div>
-   
-    <!--
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/phones.png" alt="">
-                </div>
-            </div>
-
-        </div>
-     
-
-    </div>
-   
-
-	<a  name="contact"></a>
-    <div class="banner">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>Connect to Start Bootstrap:</h2>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="list-inline banner-social-buttons">
-                        <li>
-                            <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                        </li>
-                        <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-        
-
-    </div>
-    -->
-   
     <footer>
        <div class="container">
 
